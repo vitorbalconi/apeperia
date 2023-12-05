@@ -1,2 +1,2 @@
 # apeperia
-Apeperia website to study accessibility concepts  
+Apeperia website to study accessibility concepts    
